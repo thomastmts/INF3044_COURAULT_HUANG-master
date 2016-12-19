@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="button">Nouveau bouton</string>
+    <string name="titre">Bienvenue !</string>
+    <string name="texthw">Bonjour monde !</string>
+    <string name="msg">coucou !</string>
+    <string name="msg2">Un toast</string>
+    <string name="salons">Liste des salons</string>
+</resources>
